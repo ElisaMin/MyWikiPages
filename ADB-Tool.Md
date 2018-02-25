@@ -9,6 +9,8 @@
 
 ### Shift+右键
 > 工具包的文件目录里 `Shift+右键` - `在此处打开命令窗口` 即可使用 <br />
+#### Windows10新版
+ `在此处打开PowerShell`-再执行`CMD`即可使用
 
 #### · [工具包下载地址](http://www.wmzhe.com/soft-39913.html)
 ## Android OTG
