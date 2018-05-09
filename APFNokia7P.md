@@ -24,6 +24,7 @@
 在电脑上输入`adb sideload `把下载好的文件拖进执行窗口（Sideload后面加空格）然后回车执行。 
 <br />
 ![sideload](http://imgsrc.baidu.com/forum/w%3D580/sign=a2b3da7306d162d985ee621421dea950/3311b9014a90f603d33608f03512b31bb151ed13.jpg)
+ <br />
 这个时候你可以去喝杯茶什么的，安装完成后在手机选择`Reboot system now`重启后就是Android P了！
 # 回滚
  刷回正式版最新固件就行了
