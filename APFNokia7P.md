@@ -10,16 +10,17 @@
  <br />
  
  <br />
-点击`Install Manually`后向下滚动勾选I Read……点击`Download` 
+点击`Install Manually` 后向下滚动勾选I Read……点击 `Download`
  <br />
  
  <br />
-（恢复出厂设置） 启用USB调试并使用adb工具执行`adb reboot recovery`如果没用的话音量+键和电源键按十秒再松开（？）然后选Recovery mode，在Rec下清除所有的用户数据（Wipe All User Data）
+（恢复出厂设置） 启用USB调试并使用adb工具执行 `adb reboot recovery` 如果没用的话音量+键和电源键按十秒再松开（？）然后选Recovery mode，在Rec下清除所有的用户数据（Wipe All User Data）
  <br />
- 
+ 在Rec里面按住电源+音量加键一次你会发现新大陆，选择“Apply update from ADB”
  <br />
- 
- <br />
+在电脑上输入`adb sideload `把下载好的文件拖进执行窗口（Sideload后面加空格）然后回车执行。 
+<br />
+这个时候你可以去喝杯茶什么的，安装完成后在手机选择`Reboot system now`重启后就是Android P了！
  <br />
  <br />
  <br />
