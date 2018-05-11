@@ -15,8 +15,12 @@
  
  
 ![注册界面](http://imgsrc.baidu.com/forum/pic/item/2e99304e251f95ca8e193201c5177f3e66095228.jpg) <br />
+
+---
+
 添加完成后会有一个绿色的`Validation OK`如图所示
  <br />
+ 
  ![添加完成](http://imgsrc.baidu.com/forum/w%3D580/sign=d96d3c4b70d98d1076d40c39113eb807/707915ce36d3d53941b0a5743687e950342ab008.jpg)
  <br />
 
